@@ -1,0 +1,28 @@
+{
+    "name": "phootobr/rabbitmq-consumer",
+    "description": "Consumer PHP for RabbitMQ",
+    "keywords": [
+        "Phooto",
+        "RabbitMQ",
+        "consumer",
+        "php"
+    ],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel Fontebasso",
+            "email": "samuel.fonte@phooto.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "php": "^7.2",
+        "php-amqplib/php-amqplib": "^2.9",
+        "symfony/dotenv": "^4.2"
+    }
+}
