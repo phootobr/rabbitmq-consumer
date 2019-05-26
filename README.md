@@ -1,5 +1,10 @@
 # Phooto Consumer RabbitMQ
 
+[![Latest Stable Version](https://poser.pugx.org/phootobr/rabbitmq-consumer/v/stable)](https://packagist.org/packages/phootobr/rabbitmq-consumer)
+[![Total Downloads](https://poser.pugx.org/phootobr/rabbitmq-consumer/downloads)](https://packagist.org/packages/phootobr/rabbitmq-consumer)
+[![License](https://poser.pugx.org/phootobr/rabbitmq-consumer/license)](https://packagist.org/packages/phootobr/rabbitmq-consumer)
+[![composer.lock](https://poser.pugx.org/phootobr/rabbitmq-consumer/composerlock)](https://packagist.org/packages/phootobr/rabbitmq-consumer)
+
 This project is a consumer implementation for RabbitMQ from Phooto
 
 ## Installation
